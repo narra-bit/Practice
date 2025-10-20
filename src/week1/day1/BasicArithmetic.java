@@ -11,6 +11,7 @@ public class BasicArithmetic {
 		System.out.println("Multiply : The Result is " + (a*b));
 		System.out.println("Division : The Result is " + (a/b));
 		System.out.println("Reminder : The Result is " + (a%b));
+		System.out.println("Verified");
 		
 	}
 
