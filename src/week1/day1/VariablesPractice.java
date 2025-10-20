@@ -4,7 +4,7 @@ public class VariablesPractice {
 
 	public static void main(String[] args) {
 
-		String Name = "Prathyusha";
+		String Name = "Mike";
 		int Age = 27;
 		double Experience = 5.6;
 		
