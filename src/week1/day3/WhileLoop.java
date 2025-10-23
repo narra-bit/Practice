@@ -12,11 +12,11 @@ public class WhileLoop {
         }
 
         System.out.println("\nDo-While Loop:");
-        i = 2; 
+        i = 10; 
         do {
             System.out.println(i);
             i++;
-        } while (i <= 5);
+        } while (i <= 15);
 
 	}
 
