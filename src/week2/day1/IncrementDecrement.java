@@ -19,6 +19,8 @@ public class IncrementDecrement {
         System.out.println("Pre-decrement (--num): " + (--num)); 
         System.out.println("Post-decrement (num--): " + (num--)); 
         System.out.println("After post-decrement, num = " + num);
+        
+        
 
         sc.close();
 
