@@ -27,6 +27,10 @@ public class ReplaceTrim {
         // Convert to uppercase
         String upper = replaced.toUpperCase();
         System.out.println("Uppercase version: " + upper);
+        
+        String lower = replaced.toLowerCase();
+        System.out.println("Lowercase Version: " + lower);
+        
 
         sc.close();
 
